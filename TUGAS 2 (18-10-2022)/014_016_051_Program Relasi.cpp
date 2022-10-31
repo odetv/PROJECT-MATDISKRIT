@@ -14,8 +14,8 @@ void menu()
     cout <<"TUGAS 02 (PROGRAM RELASI MATRIKS SIMETRIS, REFLEKTIF & FUNGSI CEILING C++)\n";
     cout <<"ANGGOTA KELOMPOK :\n";
     cout <<"1. I Gede Gelgel Abdiutama (2115101014)\n";
-    cout <<"2. Orang ke-2 (xxxxxxxxxx)\n";
-    cout <<"3. Orang ke-3 (xxxxxxxxxx)\n";
+    cout <<"2. Subhan Maulana (2115101016)\n";
+    cout <<"3. Bagus Aji Andarwira (2115101051)\n";
     cout <<"------------------------------------------------------------------------------\n\n\n";
     cout <<"MENU PROGRAM\n";
     cout <<"1. Matriks Simetris\n";
