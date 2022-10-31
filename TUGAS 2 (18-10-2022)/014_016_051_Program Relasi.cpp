@@ -66,7 +66,7 @@ void matriksSimetris()
 void reflektif()
 {
 	for(j=0; j<n; j++){
-		if(i!=j){
+		if(i==j){
 		    if(matriks[i][j]==1){
 				cout <<"Hasil = Matriks Reflektif\n";
 				cout <<"\nTekan ENTER untuk mengulang program...";
